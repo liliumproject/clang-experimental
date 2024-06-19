@@ -1,4 +1,10 @@
-# Lilium Toolchain
+# Lilium Toolchain - Experimental
+
+## WARNING
+```
+This is an experimental build of the Clang LLVM Toolchain. Use it at your own risk!
+```
+
 Lilium Toolchain is an LLVM and Clang compiler toolchain tailored for Android kernel development, integrating LTO (Link Time Optimization), PGO (Profile Guided Optimization), and BOLT. It leverages the latest updates from LLVM's main branch to ensure optimal performance and compatibility.
 
 ## Features
@@ -21,7 +27,7 @@ Includes binutils directly, eliminating the need for a separate GCC Toolchain. T
 
 ### Installation
 1. **Download the Toolchain**
-    - Navigate to the [Releases](https://github.com/liliumproject/clang/releases) page.
+    - Navigate to the [Releases](https://github.com/liliumproject/clang-experimenta/releases) page.
     - Download the latest .tar.gz archive.
 
 2. **Extracting the Toolchain**
